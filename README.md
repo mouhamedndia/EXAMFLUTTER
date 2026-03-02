@@ -6,9 +6,9 @@ Application Flutter météo ultra stylée avec glassmorphism, animations premium
 
 | Nom | Prénom | Matricule |
 |-----|--------|-----------|
-| À compléter | À compléter | À compléter |
-| À compléter | À compléter | À compléter |
-| À compléter | À compléter | À compléter |
+| Seydina mouhamed ndiaye |
+| Sokhna bousso wagnane
+| Aboubacar Hamet Diallo |
 
 ## 🚀 Lancer l'application
 
