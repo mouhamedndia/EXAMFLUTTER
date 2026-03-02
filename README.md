@@ -4,8 +4,7 @@ Application Flutter météo ultra stylée avec glassmorphism, animations premium
 
 ## 👥 Membres du groupe
 
-| Nom | Prénom | Matricule |
-|-----|--------|-----------|
+
 | Seydina mouhamed ndiaye |
 | Sokhna bousso wagnane
 | Aboubacar Hamet Diallo |
