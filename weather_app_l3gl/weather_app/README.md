@@ -1,4 +1,4 @@
-# 🌤️ Météo Mondiale — L3GL ISI 2026
+#  Météo Mondiale — L3GL ISI 2026
 
 Application Flutter météo ultra stylée avec glassmorphism, animations premium et carte interactive.
 
@@ -6,11 +6,11 @@ Application Flutter météo ultra stylée avec glassmorphism, animations premium
 
 | Nom | Prénom | Matricule |
 |-----|--------|-----------|
-| À compléter | À compléter | À compléter |
-| À compléter | À compléter | À compléter |
-| À compléter | À compléter | À compléter |
+|Seydina mouhamed   Ndiaye |
+|sokhna   Bousso   wagnane |
+| Aboubacar Hamet  Diallo 
 
-## 🚀 Lancer l'application
+##Lancer l'application
 
 ```bash
 # 1. Installer les dépendances
@@ -85,7 +85,7 @@ lib/
 └── main.dart
 ```
 
-## 🗺️ Carte — Zéro clé API !
+## Carte — Zéro clé API !
 
 | Outil | Rôle | Prix |
 |-------|------|------|
@@ -95,14 +95,14 @@ lib/
 
 Les coordonnées GPS viennent directement de l'API OpenWeather.
 
-## 🌐 API
+##  API
 
 - **OpenWeatherMap** : `https://api.openweathermap.org/data/2.5/weather`
 - **Langue** : Français (`lang=fr`)
 - **Unités** : Métriques (`units=metric`)
 - **Fallback** : Mock data réaliste si API indisponible
 
-## 🎨 Design
+##  Design
 
 ### Dark Mode
 - Fond : `#050510`
@@ -114,7 +114,7 @@ Les coordonnées GPS viennent directement de l'API OpenWeather.
 - Accent : `#006B54`
 - Purple : `#5B21B6`
 
-## 📦 Dépendances
+##  Dépendances
 
 ```yaml
 dio: ^5.4.0              # HTTP
@@ -126,7 +126,3 @@ cached_network_image: ^3.3.1  # Images
 shimmer: ^3.0.0          # Effet shimmer
 intl: ^0.19.0            # Formatage dates
 ```
-
-## ⏰ Deadline
-
-**05 mars 2026 à 23h59m59s** — Aucun retard accepté !
